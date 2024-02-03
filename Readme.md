@@ -43,7 +43,7 @@ java Main
 
 ## How to Contribute
 
-We welcome contributions from the community! If you'd like to contribute to the Sand Simulation project, please follow these steps:
+We welcome contributions from the community! If you'd like to contribute to the Game of life project, please follow these steps:
 1. **Fork the Repository**: Click the "Fork" button in the upper right corner of the repository's page to create your copy of the project.
 2. **Create a Branch**: Create a new branch for your work. Name it descriptively, related to the task or feature you intend to implement.
 3. **Make Changes**: Make the necessary changes to the code, fix bugs, or add new features.
